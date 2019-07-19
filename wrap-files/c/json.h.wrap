@@ -1,0 +1,4 @@
+[wrap-git]
+directory = json.h
+url = https://github.com/sheredom/json.h.git
+revision = head

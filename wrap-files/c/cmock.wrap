@@ -1,0 +1,4 @@
+[wrap-git]
+directory = cmock
+url = https://github.com/ThrowTheSwitch/CMock.git
+revision = head

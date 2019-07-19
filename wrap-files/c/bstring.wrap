@@ -1,0 +1,4 @@
+[wrap-git]
+directory = bstring
+url = https://github.com/msteinert/bstring.git
+revision = head
