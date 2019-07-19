@@ -3,7 +3,8 @@
 
 ## Description 
 
-A collection of Meson git-wrap files from repositories given Meson build system support by Squidfarts.
+A collection of Meson git-wrap files from repositories 
+given Meson build system support by Squidfarts.
 
 
 ## About 
